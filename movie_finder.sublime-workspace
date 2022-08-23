@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fin",
+				"find"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"onmouseo",
+				"onmouseover"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"gre",
+				"green"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/sublime cpp/coloring game.cpp",
+		"/F/sublime cpp/matching palindrome.cpp",
+		"/F/sublime cpp/Qualifying Contest.cpp",
+		"/C/Users/SAURABH/OneDrive - IIT Kanpur/Desktop/coffee shop/javascript.html",
+		"/C/Users/SAURABH/OneDrive - IIT Kanpur/Desktop/coffee shop/coffeeshop.css",
+		"/C/Users/SAURABH/OneDrive - IIT Kanpur/Desktop/coffee shop/index.html",
+		"/F/sublime cpp/ADAUSORT - Ada and Unstable Sort.cpp",
+		"/F/sublime cpp/Code For 1.cpp",
+		"/F/sublime cpp/test7.cpp",
+		"/F/sublime cpp/Smallest number.cpp",
+		"/F/sublime cpp/test6.cpp",
+		"/F/sublime cpp/telephone reccursion.cpp",
+		"/F/sublime cpp/Transformation from A to B.cpp",
+		"/F/sublime cpp/Pyramid of Glasses.cpp",
+		"/F/sublime cpp/output.txt",
+		"/F/sublime cpp/newwwww.cpp",
+		"/F/sublime cpp/Three Doors.cpp",
+		"/F/sublime cpp/Also Try Minecraft.cpp",
+		"/F/sublime cpp/binary search.cpp",
+		"/F/sublime cpp/test5.cpp",
+		"/F/sublime cpp/first and last position.cpp",
+		"/F/sublime cpp/output.txt.txt",
+		"/F/sublime cpp/Array Manipulation.cpp",
+		"/F/sublime cpp/input.txt",
+		"/F/c++/test.cpp",
+		"/C/Users/SAURABH/OneDrive/Desktop/coffee shop/index.html",
+		"/F/sublime cpp/shortest distance.cpp",
+		"/F/sublime cpp/Mean Inequality.cpp",
+		"/F/sublime cpp/Assignment2.cpp",
+		"/F/GITHUB files/ESO208/assignment-2/problem_1.m",
+		"/F/sublime cpp/Regular Bracket Sequences.cpp",
+		"/F/sublime cpp/Combinatorics Homework.cpp",
+		"/F/sublime cpp/Count the Pairs.cpp",
+		"/F/sublime cpp/swap0count.cpp",
+		"/F/ESO208A Computer Assignment/assignment-1/problem-1/main.m",
+		"/F/sublime cpp/value OF functions.cpp",
+		"/F/sublime cpp/Mocha and Red and Blue.cpp",
+		"/F/sublime cpp/Mocha and Math.cpp",
+		"/F/sublime cpp/outputf.in",
+		"/F/sublime cpp/inputf.in",
+		"/F/sublime cpp/nyc.cpp",
+		"/F/sublime cpp/New Year Chaos .cpp",
+		"/C/Program Files/Sublime Text 3/experiment.cpp",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/CP.sublime-build",
+		"/F/sublime cpp/test3.cpp",
+		"/F/sublime cpp/array-left_rotation.cpp",
+		"/C/Program Files/Sublime Text 3/test.cpp",
+		"/C/Program Files/Sublime Text 3/A-2D-array.cpp",
+		"/C/Program Files/Sublime Text 3/output.txt",
+		"/C/Program Files/Sublime Text 3/input.txt",
+		"/C/Program Files/Sublime Text 3/new1.cpp",
+		"/C/Program Files/Sublime Text 3/output1.txt",
+		"/C/Program Files/Sublime Text 3/new,cpp",
+		"/D/cpp/new,cpp",
+		"/C/Program Files/Sublime Text 3/onlinejudge.cpp",
+		"/C/Program Files/Sublime Text 3/cp.cpp",
+		"/C/Program Files/Sublime Text 3/new.cpp",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/cpp1.sublime-build",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/cpp.sublime-build",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/CPP1",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/cpp1",
+		"/C/Users/SAURABH/AppData/Roaming/Sublime Text/Packages/User/CPP",
+		"/C/Program Files/Sublime Text 3/3.cpp",
+		"/C/Program Files/Sublime Text 3/4.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "movie_finder.sublime-project",
+	"replace":
+	{
+		"height": 44.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
