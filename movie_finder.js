@@ -1,5 +1,5 @@
-const API_URL ="https://www.omdbapi.com/?i=tt3896198&apikey=f928f241";
-const API_URL_SEARCH = "https://www.omdbapi.com/?apikey=f928f241";
+const API_URL ="https://www.omdbapi.com/?i=tt3896198&apikey=95c8f87f&s=";
+const API_URL_SEARCH = "https://www.omdbapi.com/?apikey=95c8f87f&s=";
 
 var search_input = document.getElementById("search-input");
 var card =document.getElementsByClassName("movie-cards")[0];
@@ -16,7 +16,7 @@ async function getMovies(url){
 	const resp = await fetch(url);
 	const respData = await resp.json();
 	console.log(respData);
-	showMovies(respData.search);
+	showMovies(respData.Search);
 }
 
 function showMovies(movies){
